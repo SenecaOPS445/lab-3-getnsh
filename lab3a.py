@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # return_text_value() function
-# Author ID: [seneca_id]
+# Author ID: gchawla4@myseneca.ca
 
 def return_text_value():
     return "Hello, world!"
