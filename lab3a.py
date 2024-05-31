@@ -4,12 +4,12 @@
 # Author ID: gchawla4@myseneca.ca
 
 def return_text_value():
-    return "Hello, world!"
+    return "Good Morning Terry"
 
 # return_number_value() function
 
 def return_number_value():
-    return 42
+    return 15
 
 # Main Program
 
